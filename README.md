@@ -5,6 +5,6 @@
 --!>
 Here are some ideas to get you started:
 -->
-Nama : Purwokerto
-NIM : H1D025091
+Nama : Rafi Syafiq Firmansyah,
+NIM : H1D025091,
 Asal : Purwokerto
