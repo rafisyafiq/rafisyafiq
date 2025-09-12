@@ -8,3 +8,4 @@ Here are some ideas to get you started:
 - Nama : Rafi Syafiq Firmansyah,
 - NIM : H1D025091,
 - Asal : Purwokerto
+- Funfact : Suka ayam goreng
