@@ -5,4 +5,4 @@
 - Nama : Rafi Syafiq Firmansyah,
 - NIM : H1D025091,
 - Asal : Purwokerto
-- Funfact : Suka ayam goreng
+- Funfact : Salah jurusan
